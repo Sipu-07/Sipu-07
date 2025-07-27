@@ -1,7 +1,16 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sashikanta Rout</h1>
 <h3 align="center">🚀 A passionate Web Developer & Tech Enthusiast from India 🇮🇳</h3>
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Sashikanta+Rout!;Web+Developer+%26+Tech+Lover;Building+Cool+Neon+UIs;Welcome+to+my+Digital+World!">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+</p>
+
+---
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00f,100:0ff&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=35&fontAlign=50&descAlign=50)
 
 ---
@@ -50,13 +59,5 @@
 </p>
 
 ---
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Sashikanta+Rout!;Web+Developer+%26+Tech+Lover;Building+Cool+Neon+UIs;Welcome+to+my+Digital+World!">
-</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
-</p>
-
----
 
