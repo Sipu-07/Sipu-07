@@ -50,6 +50,23 @@
 </p>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=35&center=true&vCenter=true&lines=Hey+%F0%9F%91%8B%2C+I'm+Sashikanta+Rout!;Web+Developer+%26+Tech+Lover;Building+Cool+Neon+UIs;Welcome+to+my+Digital+World!">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+</p>
+
+---
+
+## 🔮 About Me
+
+```diff
++ ✨ Creative Web Developer with a passion for neon, glow, and interactive UIs.
+- 💻 Loves coding websites that feel alive and unique.
++ 🌱 Always learning: JavaScript • React • APIs • GitHub Tricks
+! 🎯 Goal: Build websites that don’t just work — they shine!
 
 ⭐️ *Thanks for visiting my profile! Let's grow together 🚀*
 
