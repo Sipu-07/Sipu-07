@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sashikanta Rout</h1>
-<h3 align="center">🚀 A passionate Web Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hello👋,I'm Sashikanta Rout</h1>
+<h3 align="center">🚀 A passionate Web Developer & Tech Enthusiast from India (🇮🇳) .</h3>
 
 
 
@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **neon-styled portfolio websites**
-- 🌱 I’m learning **modern JavaScript, React, and Node.js**
-- 💬 Ask me about **HTML, CSS, JavaScript, or Git**
-- ⚡ Fun fact: I believe **"Good design is powerful"**, and I love making **tech aesthetic**
+- 🔭 I’m currently working on **neon-styled portfolio websites** .
+- 🌱 I’m learning **SAP BASIC,S4HANA** .
+- 💬 Ask me about **HTML, CSS, JavaScript, or Git** .
+- ⚡ Fun fact: I believe **"Good design is powerful"**, and I love making **tech aesthetic** .
 
 ---
 
@@ -39,10 +39,10 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sashikanta-rout" target="_blank">
+  <a href="https://www.linkedin.com/in/sashikanta-rout-3a325625b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square&logoColor=white" />
   </a>
-  <a href="mailto:sashikantaofficial@gmail.com" target="_blank">
+  <a href="mailto:routsashikanta023@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square&logoColor=white" />
   </a>
   <a href="https://sashikantarout.netlify.app" target="_blank">
