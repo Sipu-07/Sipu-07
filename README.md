@@ -60,27 +60,3 @@
 
 ---
 
-## 🔮 About Me
-
-```diff
-+ ✨ Creative Web Developer with a passion for neon, glow, and interactive UIs.
-- 💻 Loves coding websites that feel alive and unique.
-+ 🌱 Always learning: JavaScript • React • APIs • GitHub Tricks
-! 🎯 Goal: Build websites that don’t just work — they shine!
-
-⭐️ *Thanks for visiting my profile! Let's grow together 🚀*
-
-<!--
-**Sipu-07/Sipu-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
